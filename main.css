@@ -1,0 +1,16 @@
+
+ #main_div {
+     margin:0 auto;
+     height: 250px;
+     width: 600px;
+     border: 1px solid gray;
+     text-align: center;
+ }
+
+ #search_div, #checked_div {
+     margin-top: 40px;
+ }
+
+#error_p{
+    color: red;
+}
